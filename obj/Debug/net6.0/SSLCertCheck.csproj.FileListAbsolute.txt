@@ -1,0 +1,14 @@
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\bin\Debug\net6.0\SSLCertCheck.exe
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\bin\Debug\net6.0\SSLCertCheck.deps.json
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\bin\Debug\net6.0\SSLCertCheck.runtimeconfig.json
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\bin\Debug\net6.0\SSLCertCheck.dll
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\bin\Debug\net6.0\SSLCertCheck.pdb
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\SSLCertCheck.GeneratedMSBuildEditorConfig.editorconfig
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\SSLCertCheck.AssemblyInfoInputs.cache
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\SSLCertCheck.AssemblyInfo.cs
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\SSLCertCheck.csproj.CoreCompileInputs.cache
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\SSLCertCheck.dll
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\refint\SSLCertCheck.dll
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\SSLCertCheck.pdb
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\SSLCertCheck.genruntimeconfig.cache
+S:\Core\User\Tony\Documents\Cloud\VPS\Vultr\VS-GitHub\CertCheck\SSLCertCheck\SSLCertCheck\obj\Debug\net6.0\ref\SSLCertCheck.dll
